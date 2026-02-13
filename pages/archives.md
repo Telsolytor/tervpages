@@ -3,8 +3,8 @@ layout: archives
 home-title: Welcome to telsolytor's blog!
 description: Tell some stories to You.
 permalink: /archives.html
-cover: https://images.unsplash.com/photo-1649771482867-21eaffe6fcd0?w=1600&h=900
-cover_author: 'Colin + Meg'
-cover_author_link: 'https://unsplash.com/@colinandmeg'
+cover: https://w.wallhaven.cc/full/n6/wallhaven-n69lmq.jpg
+cover_author: '未知作者(Wallheaven)'
+cover_author_link: 'https://wallhaven.cc/w/n69lmq'
 permalink: /archives.html
 ---
