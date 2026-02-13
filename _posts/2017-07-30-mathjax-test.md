@@ -11,6 +11,9 @@ cover_author_link: 'https://unsplash.com/@kalenemsley'
 tags: mathjax 
 ---
 
+> note ""
+> 文章来自此Jekyll模板所有者
+
 mathjax in markdown :)
 
 **这是一个不`align`的公式**：

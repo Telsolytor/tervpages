@@ -2,7 +2,7 @@
 title: 'Erodeveil ∅'
 description: 'A study in erosion and emergence.'
 keyword: ''
-url: 'https://https://www.erodeveil.cyou/'
+url: 'https://www.erodeveil.cyou/'
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
 # 在服务器上建站时，如果你不需要子域名，请将这一格留空
@@ -22,7 +22,7 @@ default_lang: "zh-Hans"
 # PWA
 pwa:
   color: '#81BBFF'
-  short_name: 'lisz'
+  short_name: 'terv'
 
 # Navigation links
 nav:
@@ -43,14 +43,14 @@ gray: false
 # Formats
 # 时间格式（Time format）：0 -- 2022-04-29    1 -- 29 Apr 2022   2 -- 2022年4月29日
 formats:
-  time: 0   
+  time: 2
 
 # Favicon
 favicon: "/favicon.ico"
 
 # Footer
 footer:
-  since: 2015
+  since: 2026
 
 # Author 配置博主信息
 author: 'Telsolytor'
@@ -110,13 +110,18 @@ busuanzi: true
 
 # Umami Analytics
 umami:
-  status: 
-  id: 
-  js: 
+  status: true
+  id: 9fb2b564-9134-4f19-8cb5-f90f5e77e1c6
+  js: https://cloud.umami.is/script.js
 
 # Google Analytics
 # google_analytics: UA-XXXXXXXXX-X
-google_analytics: 
+# google_analytics: 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-756SW0F13M"
+
 
 # Google Search
 google_search: 

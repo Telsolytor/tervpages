@@ -1,7 +1,7 @@
 ---
 layout: links
-home-title: H2O-ac theme for Jekyll
-description: 基于可能是最好看的 Jekyll 主题 H2O 的学术版主题
+home-title: 星海一角...
+description: 无穷大的星海，无限多的星系，若终有一次相遇，那一定是命运给予的幸运
 comments:
   waline: true
 permalink: /links.html
