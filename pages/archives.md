@@ -1,7 +1,7 @@
 ---
 layout: archives
-home-title: Welcome to telsolytor's blog!
-description: Tell some stories to You.
+home-title: ...星轨其一
+description: 在很久很久以前，在故事的开始...
 permalink: /archives.html
 cover: https://youke.xn--y7xa690gmna.cn/s1/2026/02/13/698f3b7fefd29.webp
 cover_author: '未知作者(Wallheaven)'

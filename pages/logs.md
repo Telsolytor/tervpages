@@ -1,7 +1,7 @@
 ---
 layout: page
-home-title: Welcome to telsolytor's blog!
-description: Tell some stories to You...
+home-title: ...星轨其一
+description: 在很久很久以前，在故事的开始...
 cover: 'https://images.unsplash.com/photo-1630824869986-a5b2f513b1f4'
 cover_author: 'Eean Chen'
 cover_author_link: 'https://unsplash.com/@zhouyudesign'

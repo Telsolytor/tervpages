@@ -1,7 +1,7 @@
 ---
 layout: page
-home-title: Welcome to telsolytor's blog!
-description: Tell some stories to You...
+home-title: ...星轨其一
+description: 在很久很久以前，在故事的开始...
 permalink: /tos.html
 ---
 
@@ -26,6 +26,7 @@ permalink: /tos.html
 - **Disqus（评论）**会收集您的访问信息和评论内容
 - **Waline（评论）**会收集您的访问信息和评论内容
 - **Busuanzi（页面统计）**会收集您的访问信息
+- 我们使用 **Cloudflare** 加速您的访问
 
 &emsp;&emsp;本站仅出于以下目的，使用您的个人信息：
 
