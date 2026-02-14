@@ -69,7 +69,7 @@ comments:
   disqus: false
   disqus_url: 'https://liaokeyu.disqus.com/embed.js'
   waline: true
-  waline_url: 'https://waline-for-terv-ia66fgn56-erodeveil.vercel.app'
+  waline_url: 'https://syscomments.erodeveil.cyou/'
   waline_reaction: true  # 是否开启 Waline 表情反馈，以下为自定义本地化配置。
   waline_locale: "{reaction0: '赞一个', reaction1: '踩一下', reaction2: '有点酷', reaction3: '看不懂', reaction4: '啥玩意', reaction5: '想睡觉'}"
 
