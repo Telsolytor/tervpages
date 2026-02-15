@@ -165,10 +165,10 @@ mermaid: true
 webpusher: false
 
 # Foreverblog
-foreverblog: true
+foreverblog: false
 
 # Wormhole
-wormhole: true
+wormhole: false
 
 # NotByAI
 notbyAI: true
