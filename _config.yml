@@ -164,16 +164,14 @@ mermaid: true
 # Webpusher
 webpusher: false
 
-# Foreverblog
-foreverblog: false
-
-# Wormhole
-wormhole: false
-
-# NotByAI
-notbyAI: true
-
-cloudflare: true
+badges:  # 其他徽章
+  netlify: true            # Netlify
+  vercel: true             # Vercel
+  cloudflare: true         # Cloudfalre
+  foreverblog: false        # Foreverblog
+  wormhole: false           # Wormhole
+  travelling: false         # Travelling
+  notbyAI: true            # NotByAI
 
 # Alive time
 alivetime: true
