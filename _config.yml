@@ -1,5 +1,5 @@
 # Site settings 配置站点
-title: 'Erodeveil ∅'
+title: 'Team ∅ Erodeveil'
 description: 'A study in erosion and emergence.'
 keyword: ''
 url: 'https://www.erodeveil.cyou/'
@@ -81,7 +81,7 @@ social-share: true
 social-share-items: ['wechat', 'weibo', 'douban', 'twitter']
 
 # theme color 主题皮肤
-theme-color: 'default'  # pink or default
+theme-color: 'pink'  # pink or default
 
 # Post header background patterns (when the post no cover): circuitBoard, overlappingCircles, food, glamorous, ticTacToe, seaOfClouds
 postPatterns: 'seaOfClouds'
