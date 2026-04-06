@@ -3,8 +3,8 @@ layout: categories
 home-title: ...星轨其一
 description: 在很久很久以前，在故事的开始...
 permalink: /categories.html
-cover: https://images.unsplash.com/photo-1649771482867-21eaffe6fcd0?w=1600&h=900
-cover_author: 'Colin + Meg'
-cover_author_link: 'https://unsplash.com/@colinandmeg'
+cover: https://a1.boltp.com/2026/04/06/69d32e20de1dc.png
+cover_author: '未知作者(Wallheaven)'
+cover_author_link: 'https://wallhaven.cc/w/p25vgp'
 permalink: /categories.html
 ---

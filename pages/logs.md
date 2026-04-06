@@ -2,9 +2,9 @@
 layout: page
 home-title: ...星轨其一
 description: 在很久很久以前，在故事的开始...
-cover: 'https://images.unsplash.com/photo-1630824869986-a5b2f513b1f4'
-cover_author: 'Eean Chen'
-cover_author_link: 'https://unsplash.com/@zhouyudesign'
+cover: 'https://a1.boltp.com/2026/04/06/69d331fbc23d9.jpg'
+cover_author: '(Pixiv) クロスゲート [107958538] - Arc(Taiwan)'
+cover_author_link: 'https://www.pixiv.net/users/20365605'
 permalink: /logs.html
 ---
 
