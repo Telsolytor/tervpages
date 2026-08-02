@@ -13,7 +13,3 @@ lang: "en"
 # About me
 
 &emsp;&emsp;To pursue my true self
-
-## Contact
-
-Email: telsolytor@erodeveil.cyou
