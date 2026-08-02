@@ -13,7 +13,7 @@ pin: false
 
 发布时间: 2026年2月16日  
 简介: 极客湾的手机年度期末考试来啦！这次我们花钱自购了44台零售手机，涵盖各种旗舰机和中端机，好好测一下他们的真实游戏性能，包括帧数、稳定性、发热功耗、触控和音频延迟。并且在收集了一整年的媒体机数据后，我们决定严打各家媒体机作弊，看看到底哪家厂商的作弊最狠！本期视频完全无广，力求给大家看到最真实最赤裸的表现，欢迎大家点赞投币支持呀！  
-油管地址: https://www.youtube.com/watch?v=hDambRVqOp8
+油管地址: https://www.youtube.com/watch?v=hDambRVqOp8  
 极客湾动态 (飞书): https://my.feishu.cn/docx/J3E4dU8mTolZouxTqF2c30tknIc
 
 > note ""  
