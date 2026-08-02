@@ -9,10 +9,4 @@ cover_author_link: 'https://space.bilibili.com/279406515'
 langs: ["zh-Hans", "en"]
 lang: "zh-Hans"
 ---
-# 关于我
 
-&emsp;&emsp;去寻找我的自我...
-
-## 联系我
-
-邮箱：telsolytor@erodeveil.cyou
