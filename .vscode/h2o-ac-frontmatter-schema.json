@@ -1,0 +1,58 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "H2O-ac Front Matter",
+    "type": "object",
+    "properties": {
+        "layout": {
+            "description": "模板，可以为 post、page 等其他各种特定页面模板",
+            "enum": [
+                "post",
+                "page"
+            ]
+        },
+        "title": {
+            "description": "文章或页面标题"
+        },
+        "subtitle": {
+            "description": "文章或页面副标题，建议使用"
+        },
+        "date": {
+            "description": "发布时间，推荐格式：2024-05-22 14:34:24 +0800"
+        },
+        "categories": {
+            "description": "类别，仅适用于文章页，用于生成目录"
+        },
+        "author": {
+            "description": "作者名，默认使用系统配置作者"
+        },
+        "cover": {
+            "description": "封面图地址"
+        },
+        "cover_author": {
+            "description": "封面图作者信息"
+        },
+        "cover_author_link": {
+            "description": "封面图作者链接"
+        },
+        "tags": {
+            "description": "标签，可以有多个",
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        },
+        "pin": {
+            "description": "是否置顶",
+            "enum": [
+                true,
+                false
+            ]
+        },
+        "submenu": {
+            "description": "子目录，需要提前在 _data/collections.yml 定义"
+        },
+        "comments": {
+            "description": "评论系统，覆盖全局配置"
+        }
+    }
+}
