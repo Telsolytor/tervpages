@@ -20,9 +20,9 @@ languages: ["zh-Hans", "zh-Hant", "en", "ja"]
 default_lang: "zh-Hans"
 
 # PWA
-#pwa:
-#  color: '#81BBFF'
-#  short_name: 'TeRv'
+pwa:
+  color: '#81BBFF'
+  short_name: 'TeRv'
 
 # Navigation links
 nav:
