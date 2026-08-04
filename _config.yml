@@ -145,7 +145,7 @@ highlighter: rouge
 kramdown:
   input: GFM
 prism:
-  theme: dracula
+  theme: one-light
   line_numbers: true
 
 # RSS
