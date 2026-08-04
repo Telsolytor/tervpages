@@ -1,5 +1,20 @@
 {
     "yaml.schemas": {
         ".vscode/h2o-ac-frontmatter-schema.json": "*.md"
-    }
+    },
+    "spellright.language": [
+        "en"
+    ],
+    "spellright.documentTypes": [
+        "latex",
+        "plaintext",
+        "markdown"
+    ],
+    "cSpell.words": [
+        "adml",
+        "ADMX",
+        "cjpalhdlnbpafiamejdnhcphjbkeiagm",
+        "mstones",
+        "unexpire"
+    ]
 }
