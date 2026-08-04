@@ -81,7 +81,7 @@ social-share: true
 social-share-items: ['wechat', 'weibo', 'douban', 'twitter']
 
 # theme color 主题皮肤
-theme-color: 'pink'  # pink or default
+theme-color: 'default'  # pink or default
 
 # Post header background patterns (when the post no cover): circuitBoard, overlappingCircles, food, glamorous, ticTacToe, seaOfClouds
 postPatterns: 'seaOfClouds'
@@ -95,7 +95,7 @@ sns:
 
 # Links 友情链接
 links:
-  'Lociwyn': 'https://x.com/lociwyn'
+  'H2O-ac theme': 'https://easy-h2o-ac.netlify.app/'
 
 # Beian 备案号
 beian: ''
