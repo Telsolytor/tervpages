@@ -117,13 +117,7 @@ umami:
   js: https://cloud.umami.is/script.js
 
 # Google Analytics
-# google_analytics: UA-XXXXXXXXX-X
-# google_analytics: 
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "G-756SW0F13M"
-
+google_analytics: G-756SW0F13M
 
 # Google Search
 google_search: 
