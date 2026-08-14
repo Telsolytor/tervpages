@@ -8,6 +8,9 @@ tags:
   - Chrome 
 ---
 
+> info "2026/08/14更新"
+> Microsoft Edge 已宣布[迁移到清单 V3 的日程表](#microsoft-edge)
+
 ## 废话
 
 自Chrome 127以来，Google就一直在强推ManifestV3扩展；到了后续版本更是开始主动禁用、禁止启用等方法强推。日常受影响最严重之一的便是广告拦截神器**uBlock Origin**了。截至150版本，主流给MV2扩展续命方案便是通过Chrome Policy/Flag 重新启用。我将互联网上各个版本Chrome常见的处理方式整理了一下。
@@ -176,9 +179,18 @@ C:\Windows\System32\drivers\etc\hosts
 根据 StatCounter 的数据，截至 2023 年 2 月，Microsoft Edge 已成为全球第三大桌面浏览器，仅次于 Safari 和 Chrome；而到了 2025 年 1 月，Edge 在 PC/桌面浏览器市场进一步提升，超过 Safari，成为全球第二大桌面浏览器。[^4]  
 由于 Edge 同样基于 Chromium，因此它与 Chrome 在扩展生态方面高度兼容，这也意味着它同样面临 Manifest V2 向 Manifest V3 迁移的问题。  不过，截至本文发布时，微软对于 MV2 扩展的最终处理方案仍然处于 TBD（待定） 状态。[^5]  
 理论上，作为 Chromium 阵营中 Chrome 的主要竞争者之一，微软可能会选择保留更长时间的 MV2 支持，以此吸引那些依赖传统扩展生态的用户。毕竟，对于浏览器厂商来说，扩展生态本身就是竞争力的一部分。  
-但另一方面，Edge 的底层仍然依赖 Chromium，而 Chromium 的发展方向主要由 Google 主导。微软究竟会选择保持差异化，还是最终跟随 Chromium 主线推进 MV3，目前仍然没有明确答案。
+~~但另一方面，Edge 的底层仍然依赖 Chromium，而 Chromium 的发展方向主要由 Google 主导。微软究竟会选择保持差异化，还是最终跟随 Chromium 主线推进 MV3，目前仍然没有明确答案。~~
 
-对于 MV2 用户而言，Edge 也许会成为一个缓冲选择，但是否能够成为长期避风港，很难评判。
+~~对于 MV2 用户而言，Edge 也许会成为一个缓冲选择，但是否能够成为长期避风港，很难评判。~~
+
+**Microsoft Edge 已宣布迁移到清单 V3 的日程表[^10]**
+
+|     日期     |     更改    | 
+|   :------   |   :------   |
+| 2022 年 7 月 | 合作伙伴中心 (和 Edge 加载项存储) 不再接受新的清单 V2 扩展。 若要发布新扩展，请使用清单 V3。 |
+| 2026 年 8 月 | 在合作伙伴中心，如果你的扩展使用清单 V2，则会显示清单 V2 弃用警告。 |
+|  2027 年初   | 对于企业客户，预计将开始弃用清单 V2 扩展。|
+|     待定     | 合作伙伴中心 (和 Edge 加载项存储) 将不再接受对继续使用清单 V2 的扩展的更新。 可以提交更新，将清单 V2 扩展迁移到清单 V3。 |
 
 ### Firefox
 
@@ -202,3 +214,4 @@ C:\Windows\System32\drivers\etc\hosts
 [^7]: [此方法适用于 Chrome 150 的最新版本 150.0.7871.187](https://ry.huaji.store/2026/01/Chrome-manifest-v2/)
 [^8]: [Chrome 150 版本启用 Manifest V2 的方法](https://fast.v2ex.com/t/1224327)
 [^9]: [ 在Chrome150上重新启用已安装的MV2扩展 ](https://meta.appinn.net/t/topic/88296)
+[^10]: [迁移到清单 V3 的日程表](https://learn.microsoft.com/zh-cn/microsoft-edge/extensions/developer-guide/manifest-v3)
